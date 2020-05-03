@@ -1,2 +1,2 @@
 # FacebookPagePoster
-Posts messages to a facebook group using OAuth
+Posts messages to a facebook page using OAuth

@@ -43,7 +43,7 @@ if (isset($accessToken)) {
         exit();
 
     //Post to page
-    $msg = 'random msg';
+    $msg = 'Hello World';
     $response = postToPage($pageId, $pageAccessToken, $msg);
 
 }

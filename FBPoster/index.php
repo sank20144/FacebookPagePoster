@@ -12,7 +12,7 @@ require __DIR__ . '/config.php';
 
 $helper = $fb->getRedirectLoginHelper();
 $permissions = ['manage_pages', 'pages_show_list', 'publish_pages']; // optional
-$loginUrl = $helper->getLoginUrl('http://localhost/FBDPChanger/login-callback.php', $permissions);
+$loginUrl = $helper->getLoginUrl('http://localhost/FBPoster/login-callback.php', $permissions);
 
 echo '<a href="' . $loginUrl . '">Log in with Facebook!</a>';
 

@@ -14,7 +14,8 @@ To deploy this application simply follow the below mentioned guidelines.
 - If not following the video then simply,  
   1. Download the Github repository       
      ![Download Repository](https://i.imgur.com/9BK7iEN.jpg)
-  2. Extract the FBPoster folder from the Zip file
+  2. Extract the FBPoster folder from the Zip file  
+     ![Extract FBPoster](https://i.imgur.com/uJwjlgE.jpg)
   3. Copy the FBPoster into "{ XAMPP Installation } / htdocs /"
   4. Open the config.php file inside FBPoster using Notepad+ or any editting software.
   5. Paste the app_id and app_secret obtained in Part 1 near the relevant fields. 

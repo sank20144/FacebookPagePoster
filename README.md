@@ -12,4 +12,5 @@ To deploy this application simply follow the below mentioned guidelines.
 ## 3. Download and Setup FBPoster
 - The video on downloading and setting up FBPoster is provided here: https://www.youtube.com/watch?v=mOen0X5udWY
 - If not following the video then simply,
-  1. 
+  1. Download the Github repository 
+  ![Download Repository](https://i.imgur.com/9BK7iEN.jpg)

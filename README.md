@@ -1,5 +1,5 @@
 # FacebookPagePoster
-Posts messages to a facebook page using OAuth. 
+Posts messages to a facebook page using OAuth.   
 To deploy this application simply follow the below mentioned guidelines.
 
 ## 1. Create a Facebook App
@@ -11,6 +11,12 @@ To deploy this application simply follow the below mentioned guidelines.
 
 ## 3. Download and Setup FBPoster
 - The video on downloading and setting up FBPoster is provided here: https://www.youtube.com/watch?v=mOen0X5udWY
-- If not following the video then simply,
-  1. Download the Github repository 
-  ![Download Repository](https://i.imgur.com/9BK7iEN.jpg)
+- If not following the video then simply,  
+  1. Download the Github repository       
+     ![Download Repository](https://i.imgur.com/9BK7iEN.jpg)
+  2. Extract the FBPoster folder from the Zip file
+  3. Copy the FBPoster into "{ XAMPP Installation } / htdocs /"
+  4. Open the config.php file inside FBPoster using Notepad+ or any editting software.
+  5. Paste the app_id and app_secret obtained in Part 1 near the relevant fields. 
+  6. Open XAMPP Control panel and turn on Apache server
+  7. Proceed to http://localhost/FBPoster/ to in a web browser
